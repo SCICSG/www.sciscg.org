@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-04-23 21:40:37 -0500
+categories: Repeaters
+---
+
+
+![SCICSG](/Images/logo.jpg "SCICSG")
+
+Welcome to SCICSG’s new website. Our members will soon begin developing content for the site and making it a valuable online destination for updates on the SCICSG organization and for ideas and projects related to amateur radio.
+
+If you are a member of SCICSG and interested in providing content for the site, please email Brian, WW9A at ww9a at scicsg.org.
